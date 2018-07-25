@@ -1,0 +1,7 @@
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\Income Calculator.csprojAssemblyReference.cache
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\Income Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Kay\Desktop\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
